@@ -1,3 +1,5 @@
+This fork aims to pursue existing research about MEV on Optimism ([Quantifying MEV on L2](https://www.arthur.bagourd.com/wp-content/uploads/2023/07/FRP_24_Quantifying_MEV_On_L2s-1.pdf)), using Flashbot's [mev-inspect-py](https://github.com/flashbots/mev-inspect-py) as a structure.
+
 # mev-inspect-py
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
